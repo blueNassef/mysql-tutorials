@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MySQL Tutorials</string>
+
+ <string-array name="tuts">
+    <item>Introduction</item>
+    <item>Overview</item>
+    <item>Understanding storage engines</item>
+    <item>Data types</item>
+    <item>Windows installation</item>
+    <item>Linux installation</item>
+    <item>Environment setup with LAMP</item>
+    <item>PHPMYAdmin</item>
+    <item>MySQL workbench setup</item>
+    <item>Principles and Normalization</item>
+    <item>Database Design process</item>
+    <item>Map out structure</item>
+    <item>Creating Tables and Columns</item>
+    <item>Importing and Exporting</item>
+    <item>Relations and Foreign Keys</item>
+    <item>Junction tables</item>
+    <item>Command line and inserting data</item>
+    <item>Basic select Queries</item>
+    <item>Updating and deleting data</item>
+    <item>Aliases and joins</item>
+    <item>Union, concat and count</item>
+    <item>Using the IN Clause</item>
+    <item>Math and subqueries</item>
+    <item>Using Group BY</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="about_statement">This app aims to provide a clear introduction in <b><i>C</i></b>. through short descriptions and code snippets. at the end of
+    every tutorial you will find a link to a video discussion <b><i>(in arabic)</i></b>.
+    feel free to leave any feedback and happy coding.</string>
+    <string name="contact_us">Contact us</string>
+    <string name="watch_arabic_video_tutorial">Watch Arabic video tutorial</string>
+    <string name="intro_1">First let\'s start with defining the term Database: is an
+    ordered collection of data. so any data which is stored in an ordered manner can be
+    named database.\nWhat is DBMs?\nDatabase management systems, is a software that is
+    designed to model data and provide interaction with the user.\nIntroduction to MySQL\n
+    1)Data is normally stored in one or more files.\n2)Data is usually stored in tables.\n
+    3)tables contain rows and columns.\n4)Data can be cross-referenced among tables.\n
+    Popular DBMS\'s:\nMySQL\nPOstgreSQL\nSQLite\nMicrosoft SQL server\nOracle\nMaria DB.\n
+    let\'s take a look at this table.</string>
+    <string name="intro_2">Database name: school\nTable name: class1\n
+    Columns / Fields: id, first_name, last_name, email.\nRows / records: 3 users.</string>
+    <string name="intro_3">Interacting with a Database:\nhere are some commands
+    which we will be using through this tutorials when dealing with a database.\n
+    Define\nCreate\nSelect\nQuery\nUpdate\nDelete</string>
+    <string name="intro_4">What is SQL?\nStructured query language, is a special
+    purpose programming language that allow developers to interact with the data in a
+    database.\nData definition language(DDL): used to define data structure. ex:(create
+        table, alter table).\nData manipulation language(DML): used to manipulate data itself ex:(
+        insert, update, delete).\nPerform CRUD (Create, Read, Update, Delete).</string>
+</resources>
